@@ -9,6 +9,6 @@
 
   <!-- Reliability: Using GitHub Actions to generate static metrics image -->
   <!-- This image will be generated after the first workflow run -->
-  <img src="https://github.com/DenIrkhin/DenIrkhin/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="github-metrics.svg" alt="Metrics" />
 
 </div>
