@@ -7,8 +7,8 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DenIrkhin&theme=gitdimmed&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenIrkhin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
   <br/>
@@ -16,10 +16,10 @@
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=DenIrkhin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DenIrkhin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenIrkhin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenIrkhin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
     </a>
   </p>
 
